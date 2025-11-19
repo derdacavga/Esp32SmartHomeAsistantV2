@@ -1,6 +1,6 @@
 # Esp32SmartHomeAsistantV2
 This project can control your smart home. Download, improve and use
 
-## Video Link
+## Tutorial
 
-https://youtu.be/vjT8oxiUrys
+[![V2](https://img.youtube.com/vi/vjT8oxiUrys/0.jpg)](https://youtu.be/vjT8oxiUrys)
